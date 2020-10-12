@@ -1,4 +1,4 @@
-### I do data analysis and build open tools for good public governance
+### I do data analysis and build open tools for good public governance.
 
 More at [petrbouchal.github.io](https://petrbouchal.github.io).
 
