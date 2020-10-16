@@ -4,14 +4,14 @@ More at [petrbouchal.xyz](https://petrbouchal.xyz).
 
 Open source tools - R packages
 
-- [{statnipokladna}](https://petrbouchal.github.io/statnipokladna): using [Czech public finance data](https://monitor.statnipokladna.cz) in R
-- [{czso}](https://petrbouchal.github.io/czso): discovery and use of data from the [Czech Statistical Office (CZSO)](https://czso.cz)
-- [{pragr}](https://petrbouchal.github.io/pragr): use [Prague's open geospatial data](https://www.geoportalpraha.cz/)
+- [{statnipokladna}](https://petrbouchal.xyz/statnipokladna): using [Czech public finance data](https://monitor.statnipokladna.cz) in R
+- [{czso}](https://petrbouchal.xyz/czso): discovery and use of data from the [Czech Statistical Office (CZSO)](https://czso.cz)
+- [{pragr}](https://petrbouchal.xyz/pragr): use [Prague's open geospatial data](https://www.geoportalpraha.cz/)
 
 Quick experimental dashboards
 
-- [czechtrack](https://petrbouchal.github.io/czechtrack) tracking selected Czech public finance time series 
-- [covid](https://petrbouchal.github.io/covid) tracking selected data for COVID-19 in the Czech Republic
+- [czechtrack](https://petrbouchal.xyz/czechtrack) tracking selected Czech public finance time series 
+- [covid](https://petrbouchal.xyz/covid) tracking selected data for COVID-19 in the Czech Republic
 
 Analysis of public sector data (work in progress)
 
