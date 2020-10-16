@@ -1,6 +1,6 @@
 ### I do data analysis and build open tools for good public governance.
 
-More at [petrbouchal.github.io](https://petrbouchal.github.io).
+More at [petrbouchal.xyz](https://petrbouchal.xyz).
 
 Open source tools - R packages
 
