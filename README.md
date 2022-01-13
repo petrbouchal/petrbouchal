@@ -7,6 +7,8 @@ Open source tools - R packages
 - [{statnipokladna}](https://petrbouchal.xyz/statnipokladna): using [Czech public finance data](https://monitor.statnipokladna.cz) in R
 - [{czso}](https://petrbouchal.xyz/czso): discovery and use of data from the [Czech Statistical Office (CZSO)](https://czso.cz)
 - [{pragr}](https://petrbouchal.xyz/pragr): use [Prague's open geospatial data](https://www.geoportalpraha.cz/)
+- [{vsezved}](https://petrbouchal.xyz/vsezved): use [official data on Czech schools](stistko.uiv.cz/) in R
+- [{purrow}](https://petrbouchal.xyz/purrrow): collate Arrow datasets out of memory
 
 [![:total status badge](https://petrbouchal.r-universe.dev/badges/:total)](https://petrbouchal.r-universe.dev)
 
