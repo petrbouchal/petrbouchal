@@ -8,6 +8,8 @@ Open source tools - R packages
 - [{czso}](https://petrbouchal.xyz/czso): discovery and use of data from the [Czech Statistical Office (CZSO)](https://czso.cz)
 - [{pragr}](https://petrbouchal.xyz/pragr): use [Prague's open geospatial data](https://www.geoportalpraha.cz/)
 
+[![:total status badge](https://petrbouchal.r-universe.dev/badges/:total)](https://petrbouchal.r-universe.dev)
+
 Quick experimental dashboards
 
 - [czechtrack](https://petrbouchal.xyz/czechtrack) tracking selected Czech public finance time series 
