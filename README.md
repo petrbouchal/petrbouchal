@@ -9,6 +9,7 @@ Open source tools - R packages
 - [{pragr}](https://petrbouchal.xyz/pragr): use [Prague's open geospatial data](https://www.geoportalpraha.cz/)
 - [{vsezved}](https://petrbouchal.xyz/vsezved): use [official data on Czech schools](stistko.uiv.cz/) in R
 - [{purrow}](https://petrbouchal.xyz/purrrow): collate Arrow datasets out of memory
+- [{ispv}](https://petrbouchal.xyz/ispv): use labour market data from the Czech [ISPV](https://ispv.cz) database in R
 
 [![:total status badge](https://petrbouchal.r-universe.dev/badges/:total)](https://petrbouchal.r-universe.dev)
 
