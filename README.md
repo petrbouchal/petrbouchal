@@ -20,8 +20,9 @@ Quick experimental dashboards
 
 Analysis of public sector data (work in progress)
 
+- [Czech Civil Service organisations and the structure of their staff](https://petrbouchal.xyz/systemizace)
 - [Obce COVID-19](obce-covid19.netlify.app/) simulating the impact of Covid-related economic shocks on local public finance
-- [Czech public service in numbers](https://github.com/petrbouchal/urednici2019/) looking at the Czech public sector workforce 
+- [Czech public service in numbers](https://github.com/petrbouchal/urednici2019/) looking at the Czech public sector workforce, fed into [IDEA publication](https://idea.cerge-ei.cz/zpravy/statni-zamestnanci-a-urednici-kde-pracuji-a-za-kolik) with @dan-bart and @PetrJansky 
 
 <!--
 **petrbouchal/petrbouchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
