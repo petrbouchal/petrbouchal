@@ -38,3 +38,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a rel="me" href="https://fosstodon.org/@petrbouchal">Mastodon</a>
+<a rel="me" href="https://mastodon.cloud/@petrbouchal">Mastodon</a>
