@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a rel="me" href="https://fosstodon.org/@petrbouchal">Mastodon</a>
-<a rel="me" href="https://mastodon.cloud/@petrbouchal">Mastodon</a>
+<a rel="me" href="https://fosstodon.org/@petrbouchal"></a>
+<a rel="me" href="https://mastodon.cloud/@petrbouchal"></a>
