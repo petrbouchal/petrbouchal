@@ -23,7 +23,8 @@ Analysis of and access to public sector data (work in progress)
 - [Obce COVID-19](obce-covid19.netlify.app/) simulating the impact of Covid-related economic shocks on local public finance
 - [Czech public service in numbers](https://github.com/petrbouchal/urednici/) looking at the Czech public sector workforce, fed into [IDEA publication](https://idea.cerge-ei.cz/zpravy/statni-zamestnanci-a-urednici-kde-pracuji-a-za-kolik) with @dan-bart and @PetrJansky
 - [Crunching data on EU Funds spending in the Czech Republic for macro modelling](https://esifunguji.petrbouchal.xyz/) done for the Czech Government Office
-- [Determining where EU funds are spent](https://github.com/petrbouchal/esifinancuji) + [website](https://esifinancuji.petrbouchal.xyz/) done for the Czech Ministry of Regional Development
+- [Determining where EU funds are spent](https://github.com/petrbouchal/kdesif) done for the Czech Ministry of Regional Development
+- [Quantifying the role of EU funds in Czech public spending](https://github.com/petrbouchal/esifinancuji) + [website](https://esifinancuji.petrbouchal.xyz/)
 - [Tracking climate tags for EU funds spending](https://github.com/cdeorgcz/esiftagging) done for the Center for Transport and Energy
 
 Experimental web apps
