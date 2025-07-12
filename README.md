@@ -28,7 +28,7 @@ Analysis of and access to public sector data (work in progress)
 
 Experimental web apps
 
-- Czech Civil Service job listings: [app prototype], [code]
+- Czech Civil Service job listings: [app prototype](https://sluzstatu.netlify.app/), [code](https://github.com/petrbouchal/statnisluzba-jobs)
 - [Alternative dashboard listing EU funds evaluation reports for the Czech Republic](https://petrbouchal.xyz/esif-evaluace/) (updated daily)
 
 Earlier quick experimental dashboards
