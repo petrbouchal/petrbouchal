@@ -19,7 +19,7 @@ Analysis of and access to public sector data (work in progress)
 
 - Webapp and report tracking Czech public sector staff numbers and salaries, 2003-2024 - IDEA CERGE-EI with @threndash: [app](), [code and data]()
 - Structure of Czech Civil Service organisations [webapp](https://petrbouchal.xyz/mapa-statu/) + [code and data](https://github.com/petrbouchal/mapa-statu/)
-- [Czech Civil Service organisations and the structure of their staff](https://petrbouchal.xyz/systemizace)
+- [Czech Civil Service organisations and the structure of their staff](https://github.com/petrbouchal/statnisluzba-systemizace)
 - [Obce COVID-19](obce-covid19.netlify.app/) simulating the impact of Covid-related economic shocks on local public finance
 - [Czech public service in numbers](https://github.com/petrbouchal/urednici/) looking at the Czech public sector workforce, fed into [IDEA publication](https://idea.cerge-ei.cz/zpravy/statni-zamestnanci-a-urednici-kde-pracuji-a-za-kolik) with @dan-bart and @PetrJansky
 - [Crunching data on EU Funds spending in the Czech Republic for macro modelling](https://esifunguji.petrbouchal.xyz/) done for the Czech Government Office
